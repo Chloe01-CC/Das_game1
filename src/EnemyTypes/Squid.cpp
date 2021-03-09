@@ -1,4 +1,4 @@
-#include "../../include/Common.h"
+/*include "../../include/Common.h"
 #include "../../include/EnemyTypes/Squid.h"
 
 Squid::Squid() {
@@ -41,3 +41,4 @@ int Squid::ReturnHealAmount() {
 std::string Squid::GetIntro() {
     return "Because two arms attacking you just wasn't enough.";
 }
+*/

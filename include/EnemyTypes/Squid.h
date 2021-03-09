@@ -1,4 +1,4 @@
-#ifndef SQUID_H
+/*#ifndef SQUID_H
 #define SQUID_H
 
 #include "../Enemy.h"
@@ -17,3 +17,4 @@ class Squid : public Enemy {
 };
 
 #endif // SQUID_H
+*/

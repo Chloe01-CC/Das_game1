@@ -1,4 +1,4 @@
-#ifndef CRAB_H
+/*#ifndef CRAB_H
 #define CRAB_H
 
 #include "../Enemy.h"
@@ -17,3 +17,4 @@ class Crab : public Enemy {
 };
 
 #endif // CRAB_H
+*/

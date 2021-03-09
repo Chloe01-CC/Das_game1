@@ -1,4 +1,4 @@
-#include "../../include/Common.h"
+/*#include "../../include/Common.h"
 #include "../../include/EnemyTypes/GiantCrab.h"
 
 GiantCrab::GiantCrab() {
@@ -42,3 +42,4 @@ int GiantCrab::ReturnHealAmount() {
 std::string GiantCrab::GetIntro() {
     return "A great claw begins to close around you...";
 }
+*/

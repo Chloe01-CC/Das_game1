@@ -1,4 +1,4 @@
-#ifndef GIANTCRAB_H
+/*#ifndef GIANTCRAB_H
 #define GIANTCRAB_H
 
 #include "Crab.h"
@@ -17,3 +17,4 @@ class GiantCrab : public Crab {
 };
 
 #endif // GIANTCRAB_H
+*/

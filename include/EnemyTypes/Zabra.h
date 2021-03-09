@@ -1,4 +1,4 @@
-#ifndef ZBRA_H
+/*#ifndef ZBRA_H
 #define ZBRA_H
 
 #include "../Enemy.h"

@@ -1,4 +1,4 @@
-#ifndef GIANTSQUID_H
+/*#ifndef GIANTSQUID_H
 #define GIANTSQUID_H
 
 #include "Squid.h"
@@ -17,3 +17,4 @@ class GiantSquid : public Squid {
 };
 
 #endif // GIANTSQUID_H
+*/

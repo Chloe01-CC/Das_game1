@@ -1,4 +1,4 @@
-#ifndef SAITAMA_H
+/*#ifndef SAITAMA_H
 #define SAITAMA_H
 
 #include "../Player.h"
