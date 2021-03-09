@@ -1,4 +1,4 @@
-#include "../../include/Common.h"
+/*#include "../../include/Common.h"
 #include "../../include/EnemyTypes/GiantSquid.h"
 
 GiantSquid::GiantSquid() {
@@ -41,3 +41,4 @@ int GiantSquid::ReturnHealAmount() {
 std::string GiantSquid::GetIntro() {
     return "With a thunderous splash...";
 }
+*/
